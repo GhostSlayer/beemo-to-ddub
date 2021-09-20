@@ -1,0 +1,19 @@
+{
+  "name": "beemo-to-ddub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@drivet/database": "^0.1.7",
+    "axios": "^0.21.4",
+    "config": "^3.3.6",
+    "discord.js": "^13.1.0",
+    "js-yaml": "^4.1.0"
+  }
+}

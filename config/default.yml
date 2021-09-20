@@ -1,0 +1,11 @@
+bot:
+  token: ''
+
+databases:
+  mysql:
+    host: ''
+    user: ''
+    password: ''
+    database: ''
+
+ddubToken: ''
